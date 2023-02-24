@@ -1,0 +1,54 @@
+html[dir="ar"]{
+    direction: rtl;
+}
+[dir="ar"] body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+[dir="ar"] .filter{
+    position: relative;
+    left:-900;
+}
+[dir="ar"] .product-icon{
+    justify-content: flex-start;
+    display: flex;
+   position: relative;
+
+}
+[dir="ar"] .product-image{
+    margin-right: 0;
+}
+
+[dir="ar"] .overlogo{
+    position:relative;
+    width: 280;
+    left: 130;
+    top: -33;
+    text-align: center;
+}
+
+[dir="ar"] .fi{
+    font-size: 35;
+}
+
+[dir="ar"] .ad{
+    position: fixed;
+    right: 1350;
+    bottom: 35px;
+
+}
+[dir="ar"] .fav{
+    margin-right: auto;
+    position: relative;
+    right: 25;
+}
+[dir="ar"] .add{
+    margin-right: auto;
+    position: 300;
+    margin-right:20 ;
+
+}
+
+[dir="ar"] .product-item-action{
+    align-items: flex-start;
+  
+}
